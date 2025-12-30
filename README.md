@@ -1,5 +1,7 @@
 # Log Analyzer - DevOps Automation Tool
 
+### Exercise time: ~1 hrs
+
 A production-ready Python script for analyzing application logs to identify errors, warnings, and performance metrics. This tool is designed for DevOps engineers to quickly gain insights from log files and automate log analysis workflows.
 
 ## Features
